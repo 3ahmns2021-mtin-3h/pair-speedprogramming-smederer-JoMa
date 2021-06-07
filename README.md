@@ -1,28 +1,28 @@
 # Template2D-Unity202015f1
 
 ### Project description: 
-Introduction/Project summary 
+Speed programming, 2 persons working on 1 projekt
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+unity 2019 1.15f1 visual studio 2019
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+![speed](https://user-images.githubusercontent.com/72389896/120996774-ec5d1380-c786-11eb-8c15-b0ab5c2c2e59.PNG)
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+Unity
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+none
 
 ### Project state: 
-incl. progress in percent
+Finished, 1 merge conflict
 
 ### Limitations: 
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by smederer, JoMa
